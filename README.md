@@ -4,6 +4,9 @@
   
 ## Stages of Pipeline
 ### 1. Instruction Fetch
+      ![image](https://github.com/nithish203/MIPS32/assets/115063170/d80ccc3d-3ee2-4e6e-9ee4-a2c4d15318e1)
+      
+
 ### 2. Instruction Decode
 ### 3. Execte
 ### 4. Memory 
